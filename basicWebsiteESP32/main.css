@@ -1,0 +1,13 @@
+#statusBox {
+    font-size: 24px;
+    padding: 10px;
+    width: 300px;
+    text-align: center;
+    border-radius: 5px;
+    font: 'Times New Roman', serif;
+}
+body {
+    font-family: 'Times New Roman', serif;
+    text-align: center;
+    margin-top: 100px;
+}
